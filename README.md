@@ -64,7 +64,7 @@ https://xxx.com
 	
 使用docker部署，首先pull下来image或者自己使用项目中Dockerfile或者Dockerfile_cn build。
 	
-	sudo docker pull billvsme/vmaig_blog
+	sudo docker pull kxiansen/test_RESTFUL
 然后运行image  
 	例子:
 	
